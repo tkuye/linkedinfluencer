@@ -1,5 +1,7 @@
-# linkedinfluencer
+![CoverQuick Image](https://www.coverquick.co/coverquick-web.png "Title")
+# Linkedinfluencer
 Using GPT NEO to craft a fake Linkedin Personality.
+
 
 
 ## Usage 
